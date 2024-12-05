@@ -4,4 +4,4 @@ TrainingData_Ratio,string,Percentage of records in the training data,Percentage 
 TestData_Size,integer,desc of userattrint,desc of userattrint,false,true,false,false,0,TestData_Size,,,,,false
 TestData_Ratio,string,Percentage of records in the test data,Percentage of records in the test data,false,true,false,false,0,TestData_Ratio,,,,,true
 Train_Class_Distributions,string,class distributions,class distributions,true,true,false,false,0,Train_Class_Distributions,,,,,false
-LSEG_Model_Repo,string,class distributions,class distributions,true,true,false,false,0,Train_Class_Distributions,,,,,false
+LSEG_Model_Repo,string,LSEG_Model_Repo,LSEG_Model_Repo,true,false,false,false,0,LSEG_Model_Repo,,,,,false
